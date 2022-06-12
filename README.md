@@ -1,6 +1,6 @@
 ### 
 
-Hello my name is Jacek (english pronunciation: YAAtzehk) 👋
+Hello my name is Jacek (english pronunciation: YAAtzehk) and I'm London based Front-End Developer 👋
 
 My recent experience consists working on the open source platform provided by the Chingu Organisation. In the last six months I had hands-on experience on working in remote Agile team environment and developing web applications with teams consisted of people from across the world. 
 
