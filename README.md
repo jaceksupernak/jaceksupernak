@@ -9,4 +9,5 @@ My background in hospitality has provided me with many transferable skills, incl
 I'm looking for my first commercial role as a Front End Developer to further my growth as a developer and to put my skills to work in professional work environment.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaceksupernak&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaceksupernak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
