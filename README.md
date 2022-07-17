@@ -1,4 +1,5 @@
-### 
+
+![Screen Shot 2022-07-17 at 18 57 57](https://user-images.githubusercontent.com/66032213/179418705-5fc2b2f3-8c1d-40df-97e0-e47cfe7d42b5.png)
 
 Hello my name is Jacek (English pronunciation: YAAtzehk) and I'm a London based Front-End Developer 👋
 
