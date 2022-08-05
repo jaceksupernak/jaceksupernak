@@ -3,11 +3,12 @@
 
 Hello my name is Jacek (English pronunciation: YAAtzehk) and I'm a London based Front-End Developer 👋
 
-My recent experience consists of working on three different projects through the open source platform Chingu. In the last six months, I have had hands-on experience working in a remote Agile team environment and developing web applications with a global team.
+I specialize in Front End Development with a focus on mobile first responsive design.
+I'm skilled in working in Agile/Scrum methodology and I thrive in a team environment.
 
-My background in hospitality has provided me with many transferable skills, including communication skills, team leading, management and problem solving. These have turned out to be key to the successful development of web applications and bringing my team together when faced with specific challenges.
+I'm a hard working and creative Front-End Developer looking for a new role. Over 1 year of professional experience including freelance for individual clients as well as team projects at Chingu, utilising ReactJS and Agile Methodology.
 
-I'm looking for my first commercial role as a Front End Developer to further my growth as a developer and to put my skills to work in professional work environment.
+My backround hospitality experience has provided me many transferable skills such as communication and team leading that turned out to be a key for a successfulll development of the applications and bringing the team together.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaceksupernak&theme=default&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaceksupernak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
