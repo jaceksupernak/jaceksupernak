@@ -10,5 +10,7 @@ My experience spans working in diverse, international teams, where I've thrived 
 With over 2 years of professional experience, including team projects and freelance work, I've honed my skills in both technical development and soft skills like communication, team leadership, and problem-solving. These skills were significantly developed in my most impactful role at TeamForward, where I was deeply involved in developing location-based features and enhancing user experience.
 
 In every project, I'm committed to proactive problem-solving and continuous learning, often going beyond my assigned tasks to improve overall application robustness and user satisfaction.
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaceksupernak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
