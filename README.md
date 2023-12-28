@@ -1,5 +1,4 @@
-
-![Screen Shot 2022-07-17 at 18 57 57](https://user-images.githubusercontent.com/66032213/179418705-5fc2b2f3-8c1d-40df-97e0-e47cfe7d42b5.png)
+![githuszmubb](https://github.com/jaceksupernak/jaceksupernak/assets/66032213/55cc3436-04d5-4603-8b6a-b9bc53520c23)
 
 Hello, my name is Jacek (English pronunciation: YAAtzehk), and I'm a Dublin (Ireland) based Front-End Developer 👋.
 
